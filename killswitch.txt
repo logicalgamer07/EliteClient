@@ -1,2 +1,1 @@
-status: "maintenance"
-reason: "Servers are upgrading. Back at 5:00 PM!"
+status: "working"
